@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class cycle {
@@ -11,5 +12,7 @@ public class cycle {
         arr[a-1]=n;
         System.out.println("The cycled array: ");
         for(int i:arr) System.out.print(i+" ");
+        sc.close();
     }
 }
+

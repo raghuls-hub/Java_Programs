@@ -1,3 +1,4 @@
+
 import java.util.Arrays;
 import java.util.Scanner;
 
@@ -11,5 +12,7 @@ public class LargestSmallest {
         Arrays.sort(arr);
 
         System.out.println("Largest number: "+l+" and smallest number: "+s);
+        sc.close();
     }
 }
+

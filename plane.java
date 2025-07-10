@@ -1,3 +1,4 @@
+
 import java.util.Scanner;
 
 public class plane {
@@ -15,6 +16,7 @@ public class plane {
             }
         }
         System.out.print(count);
-        
+        sc.close();
     }
 }
+
