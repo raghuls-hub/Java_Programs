@@ -47,5 +47,6 @@ public class Management {
         else{
             System.out.println("Invalid Role");
         }
+        sc.close();
     }
 }
